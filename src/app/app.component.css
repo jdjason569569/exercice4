@@ -64,6 +64,9 @@
     .global-container{
         width: 100%;
     }
+    .content-element{
+        width: 100%;
+    }
     .header{
         width: 100%;
     }
